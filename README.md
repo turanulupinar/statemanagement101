@@ -1,16 +1,18 @@
-# statemanagement101
 
-A new Flutter project.
+![Logo](https://riverpod.dev/tr/img/full_logo.svg)
 
-## Getting Started
+    
+# Riverpod Serisi 101
 
-This project is a starting point for a Flutter application.
+Bu projede statemanagement yöntemlerinden olan riverpod durumlarını ele aldım. 
 
-A few resources to get you started if this is your first Flutter project:
+## Özellikler
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Açık/koyu mod geçişi ile Durum yönetimi
+- Tek bir butondan durum ve sayfa güncellemeleri
+- Durum yöneticisi ile lokal data kullanımı
+- Nesne sınıflarıyla durum yönetimi
+- API ile durum yönetimi
+- Basit durum yönetimi
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
